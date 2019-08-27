@@ -12,3 +12,17 @@
     <b>Yahoo!</b>
 </body>
 </html>
+<?php
+echo "<br>";
+echo "123456789";
+echo "<br>";
+for ($i=0;$i<10;$i++){
+    echo $i;
+}
+echo "<br>";
+$arr=[1,2,3,4,5,6,7,8,9];
+foreach($arr as $value){
+    echo $value;
+}
+
+?>
