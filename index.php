@@ -12,3 +12,7 @@
     <b>Yahoo!</b>
 </body>
 </html>
+<?php
+
+echo "123";
+?>
